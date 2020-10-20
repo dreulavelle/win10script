@@ -1,20 +1,22 @@
 # win10script
-This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine.
+This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. I also added Chocolatey and other tools to the script that I install on every machine. This is a version that's been personalized for my own taste! Use at your own risk. Mean't to be ran on a fresh install of Windows 10.
 
 ## My Additions
-
-- Dark Mode
-- One Command to launch and run
+- Dark Mode!
 - Chocolatey Install
+- Uninstalling OneDrive!
 - O&O Shutup10 CFG and Run
-- Added Install Programs
 - Added Debloat Microsoft Store Apps
+- Added Programs:
+	- Google Chrome
+	- VS Code
+	- Python 3
+	- K-Lite Full (might be redundant with MPC)
+	- MPC
+	- 7Zip
 
 ## Modifications
 I encourage people to fork this project and comment out things they don't like! Here is a list of normal things people change:
-- Uninstalling OneDrive (This is on in my script)
-- Installing Adobe, Chocolatey, Notepad++, MPC-HC, and 7-Zip
-
 Comment any thing you don't want out... Example:
 
 ```
